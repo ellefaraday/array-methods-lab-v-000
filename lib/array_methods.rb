@@ -21,3 +21,5 @@ end
 def using_size(array)
   array.size
 end
+
+array = ["b", "a", "c"]
