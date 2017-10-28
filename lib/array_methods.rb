@@ -24,4 +24,4 @@ end
 
 array = ["b", "a", "c"]
 
-using_sort(array)
+puts using_sort(array).inspect
