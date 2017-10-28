@@ -23,3 +23,5 @@ def using_size(array)
 end
 
 array = ["b", "a", "c"]
+
+using_sort(array)
