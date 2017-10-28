@@ -22,6 +22,4 @@ def using_size(array)
   array.size
 end
 
-array = ["b", "aAA", "cC"]
 
-puts using_sort(array).inspect
